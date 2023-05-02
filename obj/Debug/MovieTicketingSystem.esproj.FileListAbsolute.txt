@@ -1,0 +1,2 @@
+C:\Users\user130\source\repos\MovieTicketingSystem\obj\Debug\MovieTicketingSystem.esproj.SuggestedBindingRedirects.cache
+C:\Users\user130\source\repos\MovieTicketingSystem\obj\Debug\MovieTicketingSystem.esproj.CoreCompileInputs.cache
